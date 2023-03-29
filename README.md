@@ -34,7 +34,7 @@ Project created following the second challenge of Rocketseat's NodeJS course. In
 
 ## 📁 Application Rules
 
-- [ ] Create users
+- [x] Create users
 - [ ] Identify user between requests
 - [ ] Create meals
 - [ ] Update a meal
